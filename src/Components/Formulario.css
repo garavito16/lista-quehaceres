@@ -1,0 +1,29 @@
+
+.formulario {
+    width: 300px;
+    margin:1.0em auto;
+    display: flex;
+    padding: 1.0em;
+    background-color: gray;
+    border-radius: 1.0em;
+}
+
+.divInputTarea {
+    flex: 1;
+}
+
+.inputTarea {
+    margin-right: 1.0em;
+    height: 2.0em;
+    width:200px;
+}
+
+.botoncito {
+    border-radius: 1.0em;
+    padding: 0.5em 1.5em;
+    background-color: green;
+}
+
+.error {
+    color: red;
+}

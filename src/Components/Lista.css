@@ -1,0 +1,17 @@
+
+.btnEliminar {
+    border-radius: 1.0em;
+    padding: 0.5em 1.5em;
+    background-color: red;
+}
+
+.divTarea {
+    width: 300px;
+    margin: 0.5em auto;
+    display: flex;
+
+}
+
+.nombreTarea {
+    flex:1;
+}
